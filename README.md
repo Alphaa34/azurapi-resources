@@ -1,1 +1,1 @@
-# azurapi-images
+# azurapi-resources
